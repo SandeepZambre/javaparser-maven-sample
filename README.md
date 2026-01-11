@@ -1,7 +1,7 @@
 JavaParser and Maven sample
 ---
 hi
-This is fully working sample Maven project parses and generates code with [JavaParser](http://www.javaparser.org).
+This is  fully working sample Maven project parses and generates code with [JavaParser](http://www.javaparser.org).
 
 This sample is targeted at people without [Maven](https://maven.apache.org/) experience.
 
